@@ -1,0 +1,16 @@
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\bin\Debug\netcoreapp3.1\WebApiDanilo.Data.deps.json
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\bin\Debug\netcoreapp3.1\WebApiDanilo.Data.runtimeconfig.json
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\bin\Debug\netcoreapp3.1\WebApiDanilo.Data.runtimeconfig.dev.json
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\bin\Debug\netcoreapp3.1\WebApiDanilo.Data.dll
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\bin\Debug\netcoreapp3.1\WebApiDanilo.Data.pdb
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\bin\Debug\netcoreapp3.1\WebApiDanilo.Domain.dll
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\bin\Debug\netcoreapp3.1\WebApiDanilo.Domain.pdb
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\obj\Debug\netcoreapp3.1\WebApiDanilo.Data.csproj.AssemblyReference.cache
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\obj\Debug\netcoreapp3.1\WebApiDanilo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\obj\Debug\netcoreapp3.1\WebApiDanilo.Data.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\obj\Debug\netcoreapp3.1\WebApiDanilo.Data.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\obj\Debug\netcoreapp3.1\WebApiDanilo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\obj\Debug\netcoreapp3.1\WebApiDanilo.Data.csproj.CopyComplete
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\obj\Debug\netcoreapp3.1\WebApiDanilo.Data.dll
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\obj\Debug\netcoreapp3.1\WebApiDanilo.Data.pdb
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Data\obj\Debug\netcoreapp3.1\WebApiDanilo.Data.genruntimeconfig.cache

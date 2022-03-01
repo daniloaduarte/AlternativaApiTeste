@@ -1,0 +1,10 @@
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\bin\Debug\netcoreapp3.1\WebApiDanilo.Domain.deps.json
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\bin\Debug\netcoreapp3.1\WebApiDanilo.Domain.dll
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\bin\Debug\netcoreapp3.1\WebApiDanilo.Domain.pdb
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\obj\Debug\netcoreapp3.1\WebApiDanilo.Domain.csproj.AssemblyReference.cache
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\obj\Debug\netcoreapp3.1\WebApiDanilo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\obj\Debug\netcoreapp3.1\WebApiDanilo.Domain.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\obj\Debug\netcoreapp3.1\WebApiDanilo.Domain.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\obj\Debug\netcoreapp3.1\WebApiDanilo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\obj\Debug\netcoreapp3.1\WebApiDanilo.Domain.dll
+C:\Users\Danilo\source\repos\AlternativaTesteApiDanilo\WebApiDanilo.Domain\obj\Debug\netcoreapp3.1\WebApiDanilo.Domain.pdb
